@@ -20,7 +20,7 @@ local library = {
     ended = {},
     changed = {},
     folders = {
-        assets = "Lynx.Private/assets",
+        assets = "Lynx.private/assets",
     },
     shared = {
         initialized = false,
